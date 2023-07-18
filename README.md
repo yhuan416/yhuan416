@@ -26,6 +26,8 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mmem_debug)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 [![yhuan416's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhuan416&show_icons=trueshow_owner)](https://github.com/anuraghazra/github-readme-stats)
