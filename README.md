@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=yhuan416&show_icons=trueshow_owner">
+        <img src="https://github-readme-stats.vercel.app/api?username=yhuan416&show_icons=true&show_owner=true&theme=onedark">
     </a>
 </p>
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuan416&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuan416&layout=compact&theme=onedark" />
     </a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mmem_debug&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mmem_debug&show_owner=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
