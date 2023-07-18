@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![yhuan416's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhuan416&show_icons=true&show_owner=true&theme=onedark)](https://github.com/yhuan416/mmem_debug)
+[![yhuan416's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhuan416&show_icons=true&show_owner=true&theme=onedark&count_private=true)](https://github.com/yhuan416/mmem_debug)
 
 ---  
 
