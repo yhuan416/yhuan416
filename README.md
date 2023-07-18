@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 ---
 
 [![mmem_debug](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mmem_debug&show_owner=true&theme=onedark#gh-dark-mode-only)](https://github.com/yhuan416/mmem_debug#gh-dark-mode-only)
-[![mmem_debug](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mmem_debug&show_owner=true#gh-light-mode-only)](https://github.com/yhuan416/mmem_debug#gh-light-mode-only)
-
 [![mlist](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mlist&show_owner=true&theme=onedark#gh-dark-mode-only)](https://github.com/yhuan416/mlist#gh-dark-mode-only)
-[![mlist](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mlist&show_owner=true#gh-light-mode-only)](https://github.com/yhuan416/mlist#gh-light-mode-only)
-
 [![docsify-cn-beian](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=docsify-cn-beian&show_owner=true&theme=onedark#gh-dark-mode-only)](https://github.com/yhuan416/docsify-cn-beian#gh-dark-mode-only)
+
+
+[![mmem_debug](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mmem_debug&show_owner=true#gh-light-mode-only)](https://github.com/yhuan416/mmem_debug#gh-light-mode-only)
+[![mlist](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mlist&show_owner=true#gh-light-mode-only)](https://github.com/yhuan416/mlist#gh-light-mode-only)
 [![docsify-cn-beian](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=docsify-cn-beian&show_owner=true#gh-light-mode-only)](https://github.com/yhuan416/docsify-cn-beian#gh-light-mode-only)
 ---
 
