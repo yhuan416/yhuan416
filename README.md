@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mmem_debug&show_owner=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mmem_debug&show_owner=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mlist&show_owner=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
