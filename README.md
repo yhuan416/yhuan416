@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![mlist](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=mlist&show_owner=true&theme=onedark)](https://github.com/yhuan416/mlist)
 [![docsify-cn-beian](https://github-readme-stats.vercel.app/api/pin/?username=yhuan416&repo=docsify-cn-beian&show_owner=true&theme=onedark)](https://github.com/yhuan416/docsify-cn-beian)
 ---
-###### *[How To Edit This Page](https://github.com/anuraghazra/github-readme-stats)*
+###### *[how to generate this page](https://github.com/anuraghazra/github-readme-stats)*
 
 
 <!--
